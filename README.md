@@ -12,3 +12,12 @@
 ## 🛠️ Tech Stack
 - **Power BI** – Dashboard creation & visualization.
 - **Excel** – Data preprocessing.
+
+## 📊Key Dashboard Features
+- KPI Cards for overall performance tracking
+- Sales/Revenue analysis by segment
+- Time-based trend analysis
+- Discount analysis
+- Drill-through report pages
+- Custom tooltips
+- Interactive filters and slicers
