@@ -77,3 +77,8 @@ This dashboard makes it easier to monitor business performance, identify high-pe
 - Connect the dashboard to a live data source
 - Add more drill-through analysis pages
 - Improve mobile view optimization
+
+
+
+<img width="1918" height="975" alt="image" src="https://github.com/user-attachments/assets/71a999db-a895-48d2-861a-e033e5a65bb3" />
+
