@@ -81,4 +81,9 @@ This dashboard makes it easier to monitor business performance, identify high-pe
 
 
 <img width="1918" height="975" alt="image" src="https://github.com/user-attachments/assets/71a999db-a895-48d2-861a-e033e5a65bb3" />
-
+<img width="1918" height="976" alt="image" src="https://github.com/user-attachments/assets/e4e12b23-caa7-4c97-8c17-58a99f7e9976" />
+<img width="1917" height="979" alt="image" src="https://github.com/user-attachments/assets/4ac07427-9348-4200-abee-e0eba045a4fb" />
+<img width="1915" height="975" alt="image" src="https://github.com/user-attachments/assets/88570351-6f47-4cd7-b134-619450ee0e06" />
+<img width="1915" height="969" alt="image" src="https://github.com/user-attachments/assets/8ae42a72-688e-4ac9-a193-596fd0a2295e" />
+<img width="1911" height="977" alt="image" src="https://github.com/user-attachments/assets/52e720bb-810b-45e2-aa68-9eabb273b757" />
+<img width="1915" height="973" alt="image" src="https://github.com/user-attachments/assets/d35d3c65-9fd5-4d77-bd03-2d2d088ddf22" />
