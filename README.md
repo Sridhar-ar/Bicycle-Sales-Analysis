@@ -8,3 +8,7 @@
 - **Visualize data** using interactive Power BI dashboards.
 - Enable filtering, drill-through, and tooltip analysis.
 - **Derive insights** to improve business decision-making.
+
+## 🛠️ Tech Stack
+- **Power BI** – Dashboard creation & visualization.
+- **Excel** – Data preprocessing.
